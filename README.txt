@@ -1,6 +1,6 @@
 templates
 
-Authors:
+Author:
 Yael Yishay 
 General explanation of the exercise:
 Realization of a registration form of a student for an additional year of study. The student provides a number of personal details as well as details of his / her studies for the school year in question. The software verifies that the items are valid, including verifying the details of the studies with the information that is known in advance about the study options.
